@@ -154,5 +154,30 @@ nav ul.menu li{
     .logo img {
         max-height:70px;
     }
+  
+  nav ul.menu li {
+  margin:0 25px;
+}
+  .hero{
+    padding: 200px, 40px;
+  }
+
+  .hero-content{
+    max-width:800px;
+  }
+
+  .hero-content h1 {
+    font-size:4rem;
+  }
+  hero-content p {
+    font-size: 2rem;
+  }
+  .hero-content .btn{
+    font-size:1.2rem;
+    padding:15px 30px;
+  }
+}
+
+  
 
     
